@@ -1,0 +1,7 @@
+networkx==2.1
+prettytable==2.1.0
+tqdm==4.61.0
+torchsummary==1.5.1
+torchstat==0.0.7
+dgl-cu110==0.7.0rc2
+faiss-gpu==1.7.2
