@@ -2,6 +2,8 @@
 This is our Pytorch implementation for the paper: "M2GNN: Metapath and Multi-interest Aggregated Graph Neural Network for Tag-based Cross-domain Recommendation"
 
 The proposed model is called M2GNN.
+
+Submitted at 1/31/2023.
 ## Dataset
 DPBJ dataset will be released later because it is being deencrypted.
 
